@@ -12,7 +12,7 @@
 <!-- Profile Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kdclll)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![AI Research](https://img.shields.io/badge/AI-Research-6366F1?style=flat-square)](https://github.com/kdclll)
+[![AI Research](https://img.shields.io/badge/AI%20Research-LLM-6366F1?style=flat-square)](https://github.com/kdclll)
 
 </div>
 

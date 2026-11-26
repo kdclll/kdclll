@@ -12,6 +12,7 @@
 <!-- Profile Badges -->
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kdclll)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![AI Research](https://img.shields.io/badge/AI%20Research-LLM-6366F1?style=flat-square)](https://github.com/kdclll)
 
 </div>
 
@@ -106,16 +107,27 @@ Implementations and experiments based on classical deep learning models and rese
 
 <div align="center">
 
-<!-- GitHub Statistics -->
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=kdclll&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&rank_icon=github" alt="GitHub Stats"/>
+<!-- GitHub Stats & Top Languages -->
+<table>
+<tr>
+<td width="50%" align="center">
 
-<!-- Most Used Languages -->
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdclll&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kdclll&show_icons=true&hide_border=true&rank_icon=github&bg_color=FFFFFF&title_color=2563EB&text_color=374151&icon_color=3B82F6" height="165" alt="GitHub Stats"/>
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kdclll&layout=compact&langs_count=6&hide_border=true&bg_color=FFFFFF&title_color=2563EB&text_color=374151" height="165" alt="Top Languages"/>
+
+</td>
+</tr>
+</table>
 
 <br/>
 
 <!-- Contribution Streak -->
-<img width="80%" src="https://github-readme-streak-stats.herokuapp.com/?user=kdclll&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kdclll&hide_border=true&background=FFFFFF&stroke=E5E7EB&ring=3B82F6&fire=F59E0B&currStreakNum=2563EB&sideNums=374151&currStreakLabel=2563EB&sideLabels=64748B&dates=94A3B8" width="80%" alt="GitHub Contribution Streak"/>
 
 </div>
 
@@ -129,4 +141,3 @@ Implementations and experiments based on classical deep learning models and rese
 *Stay curious. Think deeply. Build continuously.*
 
 </div>
--->
